@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on any open source projects, either Python or Rust, that I can contribute in.
 - 🐘 I’m on Fosstodon https://fosstodon.org/@IdoKendo
 
+[![An image of @idokendo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/idokendo)](https://holopin.io/@idokendo)
+
 <!---
 IdoKendo/IdoKendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
